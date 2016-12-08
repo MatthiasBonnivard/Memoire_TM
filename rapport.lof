@@ -1,0 +1,85 @@
+\select@language {french}
+\select@language {english}
+\select@language {english}
+\select@language {french}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Salle de classe virtuelle (Rizzo \textit {et al.})\relax }}{4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Environnement virtuel recr\IeC {\'e}er pour simuler la t\IeC {\^a}che "traverser une route" (Katz \textit {et al.})\relax }}{5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Broeren \textit {et al.} - Syst\IeC {\`e}me haptique avec vision st\IeC {\'e}r\IeC {\'e}oscopique utilis\IeC {\'e}.\relax }}{6}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces P\IeC {\'e}riph\IeC {\'e}riques utilis\IeC {\'e}s pour l'exercice de r\IeC {\'e}habilitation (Crosbie \textit {et al.})\relax }}{6}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Environnement virtuel avec table, objets et repr\IeC {\'e}sentation du bras (Crosbie \textit {et al.}).\relax }}{7}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Rutgers Master II-ND, gant avec retour de force.\relax }}{7}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Boian \textit {et al.} - Aper\IeC {\c c}u des exercices. Dans l'ordre de lecture: Plage de mouvement; vitesse; ind\IeC {\'e}pendance; force.\relax }}{8}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Robot \textit {ARMin}, robot de r\IeC {\'e}habilitation d\IeC {\'e}velopp\IeC {\'e} \IeC {\`a} l'\textit {ETHZ}.\relax }}{9}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Fen\IeC {\^e}tres des jeux de l'\textit {ARMin}. Dans l'ordre de lecture: jeu du labyrinthe; jeu de la boule.\relax }}{9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Ma et Bechkoum - \textit {Catch-the-orange}. Dans l'ordre de lecture: environnement virtuel; individu en train de jouer.\relax }}{10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Ma et Bechkoum - \textit {Fishing game}. Dans l'ordre de lecture: environnement virtuel; individu en train de jouer.\relax }}{10}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Ma et Bechkoum - \textit {Whack-a-mouse}, environnement virtuel.\relax }}{11}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces \textit {Voracy Fish}. Dans l'ordre de lecture: environnement virtuel; individu en train de jouer.\relax }}{12}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces NTT. Dans l'ordre: interface et environnement virtuel; installation du patient en jeu.\relax }}{13}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Stroke Recovery with Kinect. Dans l'ordre de lecture: test classique; imitation de mouvements; SG.\relax }}{13}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Lokomat, robot de r\IeC {\'e}habilitation d\IeC {\'e}velopp\IeC {\'e} par \textit {Hocoma}.\relax }}{14}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Gabarello. Dans l'ordre de lecture: phase active; phase passive.\relax }}{15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Bike Rehab, jeu 2D demandant un exercice de p\IeC {\'e}dalage.\relax }}{17}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces BeTheBall, jeu de course demandant un exercice s'inspirant du \textit {press-leg}.\relax }}{18}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Gate Crossing, jeu de pr\IeC {\'e}cision demandant un exercice s'inspirant du \textit {press-leg}.\relax }}{18}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Pics Walk, jeu d'exploration et de d\IeC {\'e}couverte demandant un exercice de marche.\relax }}{19}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces P\IeC {\'e}riph\IeC {\'e}riques utilis\IeC {\'e}s. Dans l'ordre de lecture: LHS; \textit {Oculus Rift}, kit de d\IeC {\'e}veloppement 2.\relax }}{22}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Difficult\IeC {\'e} d'impl\IeC {\'e}mentation et renforcement de la pr\IeC {\'e}sence pour les cinq sens en r\IeC {\'e}alit\IeC {\'e} virtuelle.\relax }}{23}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagramme d'ajustement automatique propos\IeC {\'e} par Cameir\IeC {\~a}o et al. \cite {Cameirao_RehabilitationGamingSystem}.\relax }}{25}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Maquette de l'environnement du jeu avec le parcours et les \IeC {\'e}l\IeC {\'e}ments \IeC {\`a} trouver.\relax }}{28}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagramme de d\IeC {\'e}ploiement montrant les diff\IeC {\'e}rents composants et leurs interactions.\relax }}{36}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Contenu du r\IeC {\'e}pertoire "Assets".\relax }}{39}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Contenu du r\IeC {\'e}pertoire "Prefabs".\relax }}{42}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Contenu du r\IeC {\'e}pertoire "Prefabs".\relax }}{44}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Contenu de la sc\IeC {\`e}ne de s\IeC {\'e}lection du niveau.\relax }}{46}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Transition entre les sc\IeC {\`e}nes, dans le sens de lecture.\relax }}{47}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Contenu de la sc\IeC {\`e}ne d'un niveau.\relax }}{47}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Librairie d'objets de d\IeC {\'e}cors, premi\IeC {\`e}re proposition: nature de l'objet simplifi\IeC {\'e}e. Horizontal: diff\IeC {\'e}rentes g\IeC {\'e}om\IeC {\'e}tries d'un objet. Vertical: diff\IeC {\'e}rents objets pour la m\IeC {\^e}me g\IeC {\'e}om\IeC {\'e}trie.\relax }}{49}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Ensemble de \textit {billboards} repr\IeC {\'e}sentant un arbre.\relax }}{50}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Librairie d'objets de d\IeC {\'e}cors, deuxi\IeC {\`e}me proposition: mod\IeC {\'e}lisation de l'objet modif\IeC {\'e}. Horizontal: diff\IeC {\'e}rentes g\IeC {\'e}om\IeC {\'e}tries d'un objet. Vertical: Diff\IeC {\'e}rents objets pour la m\IeC {\^e}me g\IeC {\'e}om\IeC {\'e}trie.\relax }}{51}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Aper\IeC {\c c}u d'un niveau avec les diff\IeC {\'e}rentes g\IeC {\'e}om\IeC {\'e}tries pour les \textit {landscape elements}. Dans l'ordre de lecture: g\IeC {\'e}om\IeC {\'e}trie compl\IeC {\`e}te; 2 \textit {billboards} avec normales; 2 \textit {billboards} sans normales; primitives 3D; \textit {billboards} avec normales; \textit {billboards} sans normales.\relax }}{52}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces BillboardGenerator - Placement de l'objet et param\IeC {\`e}tres de BillboardGenerator.\relax }}{53}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces BillboardGenerator - Aper\IeC {\c c}u des objets g\IeC {\'e}n\IeC {\'e}r\IeC {\'e}s.\relax }}{53}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces BillboardGenerator - Objet avec feuillage corrig\IeC {\'e}.\relax }}{54}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces G\IeC {\'e}n\IeC {\'e}ration d'un \textit {billboard} suivant la cam\IeC {\'e}ra.\relax }}{55}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Terrain g\IeC {\'e}n\IeC {\'e}r\IeC {\'e} \IeC {\`a} l'aide du script et import\IeC {\'e} dans \textit {Unity}.\relax }}{56}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Appauvrissement du terrain du monde 1.\relax }}{57}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Visualisation de l'appauvrissement quantitatif. Dans l'ordre, 0; 1; 2.\relax }}{58}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Visualisation de l'appauvrissement du nombre de couleurs. Dans l'ordre de lecture, 2; 5; 10; 25; 50; 100.\relax }}{59}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Terrain du monde 1 et sa \textit {splatmap}.\relax }}{60}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Appauvrissement audio - Affichage des sources par famille. Dans l'ordre de lecture: bruits de pas; sons d'interfaces; sons d'ambiance; musique de fond.\relax }}{61}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces S\IeC {\'e}lection de l'appauvrissement audio via un \textit {EnumMaskField}.\relax }}{61}
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Appauvrissement des effets de lumi\IeC {\`e}re. En haut, aper\IeC {\c c}u dans le vaisseau et sur le guide. En bas, aper\IeC {\c c}u durant un niveau.\relax }}{63}
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Appauvrissement des particules: en haut: avec; en bas: sans.\relax }}{63}
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Appauvrissement g\IeC {\'e}n\IeC {\'e}ral. Dans l'ordre de lecture, de 6 \IeC {\`a} 1.\relax }}{65}
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Animation de \textit {scan} et affichage de l'objet cibl\IeC {\'e}. Dans l'ordre de lecture: ciblage de l'objet; d\IeC {\'e}but du scan; scan en cours; affichage des jambes; jambes en mouvement; disparition de l'affichage.\relax }}{66}
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Articulation de l'avatar d'apr\IeC {\`e}s le regard.\relax }}{67}
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Vaisseau spatial et ouverture de la porte frontale.\relax }}{68}
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Zone int\IeC {\'e}rieure, compos\IeC {\'e}e des trois pi\IeC {\`e}ces. De droite \IeC {\`a} gauche: s\IeC {\'e}lection des niveaux; chambre; sas.\relax }}{68}
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Diagramme de classes UML des classes utilis\IeC {\'e}es pour la gestion du chemin\relax }}{69}
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Trac\IeC {\'e} du chemin, tel qu'il est per\IeC {\c c}u dans \textit {Gizmos}.\relax }}{70}
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Aper\IeC {\c c}u du trac\IeC {\'e} sous \textit {Inkscape}. Dans l'ordre de lecture: sur fond blanc; sur une capture d'\IeC {\'e}cran; sur la \textit {splatmap}.\relax }}{70}
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Placement des objectifs et leur source audio sur le monde 4, parcours allant dans le sens des aiguilles d'une montre. \IeC {\`A} gauche, objectifs \IeC {\`a} gauche du chemin; \IeC {\`a} droite, objectifs \IeC {\`a} droite du chemin\relax }}{72}
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Textures du placement des \textit {landscape elements} ("\textit {LandscapeElementsMap}")\relax }}{72}
+\contentsline {figure}{\numberline {5.34}{\ignorespaces \IeC {\'E}cran d'affichage des scores, en fin de partie.\relax }}{74}
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Visualisation des anneaux de t\IeC {\'e}l\IeC {\'e}portation et de ses diff\IeC {\'e}rentes \IeC {\'e}tapes. Dans l'ordre de lecture: anneaux \IeC {\`a} deux moments de leur animations; barre d'oxyg\IeC {\`e}ne vide; disparition du HUD et apparition des anneaux; flou de mouvement.\relax }}{75}
+\contentsline {figure}{\numberline {5.36}{\ignorespaces \IeC {\'E}cran de choix du niveau, visualisation des objectifs d\IeC {\'e}j\IeC {\`a} obtenus et ceux restant \IeC {\`a} obtenir.\relax }}{75}
+\contentsline {figure}{\numberline {5.37}{\ignorespaces Carte de visualisation de la progression durant une partie.\relax }}{76}
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Sch\IeC {\'e}ma de la mesure des diff\IeC {\'e}rents angles des articulations du patient, d'apr\IeC {\`e}s le LHS.\relax }}{77}
+\contentsline {figure}{\numberline {5.39}{\ignorespaces Articulation des jambes, vue de face et de profil. La jambe droite est articul\IeC {\'e}e pour un T1, T2 et T3 valant 0. La jambe gauche est articul\IeC {\'e}e pour un T1, T2 et T3 valant 45.\relax }}{78}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Pi\IeC {\`e}ce de choix des niveaux. \IeC {\`A} gauche: pi\IeC {\`e}ce contenant la lampe, le joueur, l'\IeC {\'e}cran et une porte. \IeC {\`A} droite: \IeC {\'e}cran de choix des niveaux, avec le curseur sur le bouton de d\IeC {\'e}filement de la liste.\relax }}{81}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Deuxi\IeC {\`e}me pi\IeC {\`e}ce et HUD. \IeC {\`A} gauche: vision de la deuxi\IeC {\`e}me pi\IeC {\`e}ce depuis le point de d\IeC {\'e}part avec le HUD affich\IeC {\'e}, un \textit {scan} du guide est en cours. \IeC {\`A} droite: vision de l'emplacement du HUD dans la sc\IeC {\`e}ne.\relax }}{81}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Aper\IeC {\c c}u du monde 1.\relax }}{83}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Aper\IeC {\c c}u du monde 2.\relax }}{84}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Aper\IeC {\c c}u du monde 3.\relax }}{84}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Aper\IeC {\c c}u du monde 4.\relax }}{85}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Aper\IeC {\c c}u du monde 5.\relax }}{86}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Diagramme de classe montrant les classes abstraites dont h\IeC {\'e}ritent tous les scripts attach\IeC {\'e}s \IeC {\`a} un \textit {GameObject} ayant \IeC {\'e}t\IeC {\'e} impl\IeC {\'e}ment\IeC {\'e}s.\relax }}{}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagramme de classe montrant la structure de la communication, inspir\IeC {\'e}e de celle du projet SG4R.\relax }}{}

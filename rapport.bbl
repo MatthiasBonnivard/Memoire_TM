@@ -1,0 +1,450 @@
+\begin{thebibliography}{10}
+
+\bibitem{Photoshop_website}
+Adobe.
+\newblock {Adobe Photoshop}, 2016.
+
+\bibitem{Alankus_TowardsCustomizableGames}
+Gazihan Alankus, Amanda Lazar, Matt May, and Caitlin Kelleher.
+\newblock {Towards customizable games for stroke rehabilitation}.
+\newblock {\em Proceedings of the 28th international conference on Human
+  factors in computing systems CHI 10}, 28(3):2113--2122, 2008.
+
+\bibitem{QuickTime_website}
+Apple.
+\newblock {QuickTime}, 2016.
+
+\bibitem{Atangeo_webiste}
+Atangeo.
+\newblock {Atangeo}, 2015.
+
+\bibitem{Behrendt_BillboardCloud}
+S.~Behrendt, C.~Colditz, O.~Franzke, J.~Kopf, and O.~Deussen.
+\newblock {Realistic real-time rendering of landscapes using billboard clouds}.
+\newblock {\em Computer Graphics Forum}, 24(3):507--516, 2005.
+
+\bibitem{Bermudez_NTTToKinect}
+Sergi {Berm\'{u}dez I Badia}.
+\newblock
+  http://sergibermudez.blogspot.ch/2013/05/the-neurorehabilitation-training.html,
+  2013.
+
+\bibitem{Bermudez_NTT}
+Sergi {Berm\'{u}dez I Badia} and M.~S. Cameir\~{a}o.
+\newblock {The Neurorehabilitation Training Toolkit (NTT): A novel worldwide
+  accessible motor training approach for at-home rehabilitation after stroke}.
+\newblock {\em Stroke Research and Treatment}, 2012:13, 2012.
+
+\bibitem{PoweringTheRift}
+Atman Binstock.
+\newblock {Powering the Rift}, 2015.
+
+\bibitem{3PointsLightning}
+Jeremy Birn.
+\newblock {Three-Point Lighting for 3D Renderings}, 2007.
+
+\bibitem{Blender_website}
+Blender.
+\newblock {Blender}.
+
+\bibitem{Boian_HandRehab}
+R.~Boian, A.~Sharma, C.~Han, A.~Merians, G.~Burdea, S.~Adamovich, M.~Recce,
+  M.~Tremaine, and H.~Poizner.
+\newblock {Virtual reality-based post-stroke hand rehabilitation}.
+\newblock {\em Studies in Health Technology and Informatics}, 85:64--70, 2002.
+
+\bibitem{UnityUISystemInVR}
+Andy Borrell.
+\newblock {Unity's UI System in VR}, 2015.
+
+\bibitem{SGVW_EducationProfDevHealthCare}
+Klause Bredl and Wolfgang B\"{o}sche.
+\newblock {\em {Serious Games and Virtual Worlds in Education, Prefessional
+  Development, and Healthcare}}.
+\newblock 2013.
+
+\bibitem{Broeren_VRHaptic}
+Jurgen Broeren, Martin Rydmark, and Katharina~Stibrant Sunnerhagen.
+\newblock {Virtual reality and haptics as a training device for movement
+  rehabilitation after stroke: A single-case study}.
+\newblock {\em Archives of Physical Medicine and Rehabilitation},
+  85(8):1247--1250, 2004.
+
+\bibitem{Burke_DesigningEngagingPlayableGames4Rehab}
+J.W. Burke, M.D.J. McNeill, D.~K.$\backslash$ Charles, P.~J. Morrow, J.~H.
+  Crosbie, and S.~M. McDonough.
+\newblock {Designing Engaging, Playable Games for Rehabilitation}.
+\newblock {\em 8th International Conference on Disability, Virtual Reality and
+  Associated Technologies (ICDVRAT)}, pages 195--201, 2010.
+
+\bibitem{CompAlg}
+W.~Businger.
+\newblock {Le calcul formel et num\'{e}rique en ing\'{e}nierie}, 2013.
+
+\bibitem{Buss_InverseKinematicIntro}
+Samuel R.~Sr Buss.
+\newblock {Introduction to inverse kinematics with jacobian transpose,
+  pseudoinverse and damped least squares methods}.
+\newblock {\em University of California, San Diego, Typeset manuscript \ldots},
+  132(4):1--19, 2004.
+
+\bibitem{Cameirao_RehabilitationGamingSystem}
+M\'{o}nica~S Cameir\~{a}o, Sergi Berm\'{u}dez~I Badia, Esther~Duarte Oller, and
+  Paul F M~J Verschure.
+\newblock {Neurorehabilitation using the virtual reality based Rehabilitation
+  Gaming System: methodology, design, psychometrics, usability and validation.}
+\newblock {\em Journal of neuroengineering and rehabilitation}, 7:48, 2010.
+
+\bibitem{Crosbie_RandomizedStudy}
+J~H Crosbie, S~Lennon, M~C Mcgoldrick, M~D~J Mcneill, J~W Burke, and S~M
+  Mcdonough.
+\newblock {Virtual reality in the rehabilitation of the upper limb after
+  hemiplegic stroke: a randomised pilot study}.
+\newblock {\em Screen}, pages 229--235, 2008.
+
+\bibitem{Crosbie_DevVR4StrokeRehab}
+J~H Crosbie, S~M McDonough, S~Lennon, and M~D~J McNeill.
+\newblock {\em {Development of a virtual reality system for the rehabilitation
+  of the upper limb after stroke}}.
+\newblock 2005.
+
+\bibitem{Crosbie_UserPerpective}
+J~H Crosbie, S~M McDonough, S~Lennon, L~Pokluda, and M~D~J McNeill.
+\newblock {\em {Virtual reality int the rehabilitation of the upper limb after
+  stroke: the user's perspective}}.
+\newblock 2004.
+
+\bibitem{UnityOculusIntegration}
+Cybereality.
+\newblock {Unity 5.1 and the Oculus Integration}, 2015.
+
+\bibitem{Decoret_BillboardCloud}
+Xavier D\'{e}coret, Fr\'{e}do Durand, Fran\c{c}ois~X. Sillion, and Julie
+  Dorsey.
+\newblock {Billboard Clouds To cite this version :}.
+\newblock Technical report, INRIA, Montbonnot-St-Martin, 2002.
+
+\bibitem{Decoret_BillboardCloudExtrem}
+Xavier D\'{e}coret, Fr\'{e}do Duriez, Fran\c{c}ois~X. Sillion, and Julie
+  Dorsey.
+\newblock {Billboard Clouds for Extreme Model Simplification}.
+\newblock Technical Report March, MIT Laboratory for Computer Science, 2003.
+
+\bibitem{UnityMVC}
+Eduoardo {Dias Da Costa}.
+\newblock {Unity with MCV}, 2015.
+
+\bibitem{Diaz_AulaVRTest}
+Unai D\'{\i}az-Orueta, Cristina Garcia-L\'{o}pez, Nerea Crespo-Egu\'{\i}laz,
+  Roc\'{\i}o S\'{a}nchez-Carpintero, Gema Climent, and Juan Narbona.
+\newblock {AULA virtual reality test as an attention measure: Convergent
+  validity with Conners' Continuous Performance Test.}
+\newblock {\em Child neuropsychology : a journal on normal and abnormal
+  development in childhood and adolescence}, 7049(December):1--15, 2013.
+
+\bibitem{BrainENOVATION}
+Brain E-NOVATION.
+\newblock http://www.brainenovation.com/, 2015.
+
+\bibitem{Eng_GaitTrainingStrategies_WalkingSpeed}
+Janice~J. Eng and Pei {Fang Tang}.
+\newblock {Gait training strategies to optimize walking ability in people with
+  stroke: A synthesis of the evidence}.
+\newblock {\em Expert Rev Neurother}, 7(10):1417--1436, 2011.
+
+\bibitem{Fell_ProgressingTherapeuticInvervention}
+Dennis~W Fell.
+\newblock {Progressing Therapeutic Intervention in Patients with Neuromuscular
+  Disorders : A Framework to Assist Clinical Decision Making}.
+\newblock {\em Journal of Neurological Physical Therapy}, 28(1):35--46, 2004.
+
+\bibitem{Garcia_BillboardCloud}
+Ismael Garcia, Mateu Sbert, and L.~Szirmay-Kalos.
+\newblock {Tree rendering with billboard clouds}.
+\newblock {\em University of Girona and Budapest University of Technology},
+  9:19, 2005.
+
+\bibitem{Gobron_WebGL}
+St\'{e}phane Gobron and Mario Gutierrez.
+\newblock {GLSL et Shaders}.
+\newblock In {\em WebGL par la pratique}, chapter 4.2 GLSL e, pages 55--60.
+  Presses Polytechniques et Universitaires Romandes, Lausanne, premi\`{e}re
+  \'{e} edition, 2015.
+
+\bibitem{Green_ExercisingBrain}
+C.~S. Green and D.~Bevelier.
+\newblock {Exercising Your Brain: A Review of Human Brain Plasticity and
+  Training-Induced Learning}.
+\newblock {\em NIH}, 23(4):692--701, 2010.
+
+\bibitem{Grefkes_CorticalReorganization}
+C.~Grefkes and N.~S. Ward.
+\newblock {Cortical Reorganization After Stroke: How Much and How Functional?}
+\newblock {\em The Neuroscientist}, 20(1):56--70, 2013.
+
+\bibitem{Lokomat_Brochure}
+Hocoma.
+\newblock {Hocoma, LOKOMAT@PRO}.
+\newblock 2014.
+
+\bibitem{Lokomat_FlyingGame}
+Hocoma.
+\newblock
+  http://www.hocoma.com/en/products/lokomat/lokomatpro/augmented-feedback/,
+  2015.
+
+\bibitem{ICM_Strokes}
+ICM.
+\newblock http://icm-institute.org/en/stroke/.
+
+\bibitem{Inkscape_website}
+Inkscape.
+\newblock {Inkscape}, 2016.
+
+\bibitem{InformationHeminegligence}
+{Institution de LAVIGNY}.
+\newblock {INFORMATION AUX PATIENTS L ’ h\'{e}min\'{e}gligence}.
+
+\bibitem{Jay_RT_ModelingEffectsDelayedHaptic}
+Caroline Jay, Mashhuda Glencross, and Roger Hubbold.
+\newblock {Modeling the effects of delayed haptic and visual feedback in a
+  collaborative virtual environment}.
+\newblock {\em ACM Transactions on Computer-Human Interaction}, 14(2):34, 2007.
+
+\bibitem{Katz_CrossStreet}
+N~Katz, H~Ring, Y~Naveh, R~Kizony, U~Feintuch, and P~L Weiss.
+\newblock {Interactive virtual environment training for safe street crossing of
+  right hemisphere stroke patients with unilateral spatial neglect.}
+\newblock {\em Disability and rehabilitation}, 27(20):1235--1243, 2005.
+
+\bibitem{Labruyere_LokomatGabarello}
+Rob Labruy\`{e}re, Corinna~N. Gerber, Karin Birrer-Br\"{u}tsch, Andreas
+  Meyer-Heim, and Hubertus~J.a. van Hedel.
+\newblock {Requirements for and impact of a serious game for neuro-pediatric
+  robot-assisted gait training}.
+\newblock {\em Research in Developmental Disabilities}, 34(11):3906--3915,
+  2013.
+
+\bibitem{Lacewell_BillboardCloud}
+J~Dylan Lacewell, David Edwards, Peter Shirley, and William~B Thompson.
+\newblock {Stochastic Billboard Clouds for Interactive Foliage Rendering.}
+\newblock {\em J. Graphics Tools}, 11(1):1--12, 2006.
+
+\bibitem{LHS_website}
+{LHS S.A.}
+\newblock http://www.lhs-sa.ch/.
+
+\bibitem{Ma_SG4MovTherapy}
+Minhua Ma and Kamal Bechkoum.
+\newblock {Serious games for movement therapy after stroke}.
+\newblock {\em IEEE International Conference on Systems, Man and Cybernetics},
+  pages 1872--1877, 2008.
+
+\bibitem{VARSG4HC1}
+Minhua Ma, Lakhmi {C. Jain}, and Paul Anderson.
+\newblock {\em {Virtual, Augmented Reality and Serious Games for Healthcare
+  1}}.
+\newblock Springer, 2014.
+
+\bibitem{MeriansSensorimotorTraining}
+Alma~S Merians, Howard Poizner, Rares Boian, Grigore Burdea, and Sergei
+  Adamovich.
+\newblock {Sensorimotor training in a virtual reality environment: does it
+  improve functional recovery poststroke?}
+\newblock {\em Neurorehabilitation and neural repair}, 20(2):252--267, 2006.
+
+\bibitem{CSharp_website}
+Microsoft.
+\newblock {C\#}, 2016.
+
+\bibitem{DotNetFramework_website}
+Microsoft.
+\newblock {Framework .NET}, 2016.
+
+\bibitem{MicrosoftResearch}
+Microsoft.
+\newblock {Microsoft Research}, 2016.
+
+\bibitem{Microsoft_StrokeRecovery}
+{Microsoft Research}.
+\newblock
+  http://research.microsoft.com/en-us/projects/stroke-recovery-with-kinect/,
+  2015.
+
+\bibitem{Nagle_DifferentDifficultyAdaptation}
+Aniket Nagle, Domen Novak, Peter Wolf, and Robert Riener.
+\newblock {The effect of different difficulty adaptation strategies on
+  enjoyment and performance in a serious game for memory training}.
+\newblock 6:120--128, 2014.
+
+\bibitem{Nagle_PlayerCenteredRewardScheduling}
+Aniket Nagle, Peter Wolf, Robert Riener, and Domen Novak.
+\newblock {The Use of Player-centered Positive Reinforcement to Schedule
+  In-game Rewards Increases Enjoyment and Performance in a Serious Game}.
+\newblock {\em International Journal of Serious Games}, 1(4):2384--8766, 2014.
+
+\bibitem{Nef_ARMinRobot}
+Tobias Nef, Matjaz Mihelj, and Robert Riener.
+\newblock {ARMin: A robot for patient-cooperative arm therapy}.
+\newblock {\em Medical and Biological Engineering and Computing},
+  45(9):887--900, 2007.
+
+\bibitem{Nef_EffectsArmTraining}
+Tobias Nef, Gabriela Quinter, Roland M\"{u}ller, and Robert Riener.
+\newblock {Effects of arm training with the robotic device ARMin i in chronic
+  stroke: Three single cases}.
+\newblock {\em Neurodegenerative Diseases}, 6(5-6):240--251, 2009.
+
+\bibitem{Objectis_website}
+Objectis.
+\newblock {Objectis}.
+
+\bibitem{OcfClient_website}
+Objectis.
+\newblock {Ocf client}.
+
+\bibitem{OculusDk2_website}
+Oculus.
+\newblock {Oculus Rift DK2}, 2016.
+
+\bibitem{python_website}
+{Python Sofware Foundation}.
+\newblock {Python}, 2016.
+
+\bibitem{Cruncher_UnityPlugin_website}
+RealWorldUnity.com.
+\newblock {Cruncher}.
+
+\bibitem{FuglMeyerAssesment}
+Rehabmeasures.
+\newblock
+  {http://www.rehabmeasures.org/lists/rehabmeasures/dispform.aspx?ID=908},
+  1975.
+
+\bibitem{Rizzo_Classroom}
+a~Rizzo, D~Klimchuk, and R~Mitura.
+\newblock {The Virtual Classroom: A Virtual Environment for the Assessment of
+  Attention Processes in Children with Attention Deficit Hyperactivity
+  Disorder}.
+\newblock {\em Digital Media Works}, (2):4, 2004.
+
+\bibitem{Rizzo_analysisVRApplication}
+Albert~A. Rizzo, Maria Schultheis, Kimberly~A. Kerns, and Catherine Mateer.
+\newblock {Analysis of assets for virtual reality application in
+  neuropsychology}.
+\newblock {\em Neuropsychological rehabilitation}, 14(1):207--239, 2004.
+
+\bibitem{Robertson_AugmentedFeedback}
+J.V. Robertson and A.~Roby-Brami.
+\newblock {Augmented feedback, virtual reality and robotics for designing new
+  reabilitation methods.}
+\newblock In {\em Rethinking Physical and Rehabilitation Medicine}, pages
+  223--245. Springer edition, 2010.
+
+\bibitem{Salen_RulesOfPlay}
+Katie Salen and Eric Zimmerman.
+\newblock {Rules of Play: Game Design Fundamentals}.
+\newblock {\em Nihon Ronen Igakkai zasshi. Japanese journal of geriatrics},
+  51(3):672, 2004.
+
+\bibitem{Saposnik_VR4StrokeRehab}
+Gustavo Saposnik and Mindy Levin.
+\newblock {Virtual reality in stroke rehabilitation: A meta-analysis and
+  implications for clinicians}.
+\newblock {\em Stroke}, 42(5):1380--1386, 2011.
+
+\bibitem{Schroeder_DecimationTrianglesMeshes}
+William~J. Schroeder, Jonathan~a. Zarge, and William~E. Lorensen.
+\newblock {Decimation of triangle meshes}.
+\newblock {\em ACM SIGGRAPH Computer Graphics}, 26(2):65--70, 1992.
+
+\bibitem{Staubli_EffectsIntensiveArmTraining}
+Patricia Staubli, Tobias Nef, Verena Klamroth-Marganska, and Robert Riener.
+\newblock {Effects of intensive arm training with the rehabilitation robot
+  ARMin II in chronic stroke patients: four single-cases.}
+\newblock {\em Journal of neuroengineering and rehabilitation}, 6:46, 2009.
+
+\bibitem{Unity50Tips}
+Herman Tulleken.
+\newblock {50 Tips for Working with Unity}, 2012.
+
+\bibitem{RawMocapData_assetStorePage}
+Unity.
+\newblock {Raw Mocap Data for Mecanim}.
+
+\bibitem{UnityAssetStore_website}
+Unity.
+\newblock {Unity Asset store}.
+
+\bibitem{UnityDotNETVersion}
+Unity.
+\newblock {The Future of scripting in Unity}, 2014.
+
+\bibitem{UnityMovieTexture}
+Unity.
+\newblock {Movie Texture}, 2015.
+
+\bibitem{UnityNormalMap}
+Unity.
+\newblock {Normal map (Bump mapping)}, 2015.
+
+\bibitem{UnityVector3Slerp}
+Unity.
+\newblock {Vector3.Slerp}, 2015.
+
+\bibitem{Unity_website}
+Unity.
+\newblock {Unity}, 2016.
+
+\bibitem{VanderLee_ForcedUse}
+J~H van~der Lee, R~C Wagenaar, G~J Lankhorst, T~W Vogelaar, W~L Devill\'{e},
+  and L~M Bouter.
+\newblock {Forced use of the upper extremity in chronic stroke patients:
+  results from a single-blind randomized clinical trial.}
+\newblock {\em Stroke; a journal of cerebral circulation}, 30(11):2369--2375,
+  1999.
+
+\bibitem{VoracyFish}
+VoracyFish.
+\newblock http://www.voracy.com/, 2015.
+
+\bibitem{Cochrane_Intervention4MotorApraxia}
+C.~West, Audrey Bowen, A.~Hesketh, and A.~Vail.
+\newblock {Interventions for motor apraxia following stroke}.
+\newblock {\em Cochrane Database of Systematic Reviews}, (1), 2008.
+
+\bibitem{wikipedia_cinematiqueInverse}
+Wikip\'{e}dia.
+\newblock {Cin\'{e}matique inverse}, 2015.
+
+\bibitem{colorDiff}
+Wikip\'{e}dia.
+\newblock {Color Diff\'{e}rence}, 2015.
+
+\bibitem{Kinect_website}
+Wikip\'{e}dia.
+\newblock {Kinect}, 2015.
+
+\bibitem{Witmer_MeasuringPresence}
+B~G Witmer and M~J Singer.
+\newblock {Measuring presence in virtual environments}.
+\newblock ARI techni(October), 1994.
+
+\bibitem{ReplaceSplatmap_sourceWebsite}
+{World Machine Software}.
+\newblock {Terrain export from World Machine to Unity}, 2015.
+
+\bibitem{ZanniniRapport}
+Nicolas Zannini.
+\newblock {\em {Des Serious Games 3D temps r\'{e}el pour la r\'{e}habilitation
+  du syst\`{e}me vestibulaire inf\'{e}rieur}}.
+\newblock PhD thesis, HES-SO, 2015.
+
+\bibitem{Zimmerli_ValidationBalanceDifficulty}
+Lukas Zimmerli, Carmen Krewer, Roger Gassert, Friedemann M\"{u}ller, Robert
+  Riener, and Lars L\"{u}nenburger.
+\newblock {Validation of a mechanism to balance exercise difficulty in
+  robot-assisted upper-extremity rehabilitation after stroke}.
+\newblock {\em Journal of NeuroEngineering and Rehabilitation}, 9(1):6, 2012.
+
+\end{thebibliography}

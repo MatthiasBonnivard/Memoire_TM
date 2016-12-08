@@ -1,0 +1,137 @@
+\documentclass[11pt]{report}
+\usepackage[french,english]{babel}
+\selectlanguage{french}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc} 
+\usepackage[total={6.5in,8.75in}, top=0.6in, bottom=0.4in, left=1.0in, includefoot]{geometry}
+\setlength{\parindent}{0cm}
+\usepackage{caption}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage{lscape}
+\usepackage{url}
+\usepackage{textcomp}
+%\usepackage{microtype}
+%\DisableLigatures{}
+\newcommand{\imgHeightSmall}{5cm}
+\newcommand{\imgHeightMedium}{7.5cm}
+\newcommand{\imgHeightBig}{12.5cm}
+
+\begin{document}
+	%\title{Serious Game 3D temps réel pour la réhabilitation  \\ \vspace{2 mm}  Rapport}
+	%\author{Nicolas Wenk}
+	%\date{\today}
+	%\maketitle
+	
+	\input{tex/Frontpage}
+	\newpage
+	%\newgeometry{left=30mm,right=30mm, top=50mm, bottom=20mm}
+	\input{tex/Frontpage2}
+	\newpage
+
+	\pagenumbering{roman}
+	
+	\renewcommand\labelitemi{\textbullet}
+	\renewcommand\labelitemii{\textbullet}
+	\renewcommand\labelitemiii{\textbullet}
+
+	\chapter*{Abstract}
+		\input{tex/AbstractEN}	
+	
+	\chapter*{Résumé}
+		\input{tex/AbstractFR}		
+		
+	\chapter*{Remerciements}
+		\input{tex/Acknowledgments}
+	
+	\tableofcontents
+	
+	\chapter{Introduction}
+		\pagenumbering{arabic}
+		\input{tex/Introduction}
+		
+	\chapter{État de l'art}
+		\input{tex/StateOfTheArt}
+			
+	\chapter{Analyse}
+		\input{tex/Analysis}		
+		
+	\chapter{Conception}
+		\input{tex/Conception}
+		
+	\chapter{Développement logiciel}		
+		\input{tex/Development}	
+			
+	\chapter{Résultats}
+		\input{tex/Results}
+		
+	\chapter{Discussion}
+		\input{tex/Discussions}
+		
+	%\bibliographystyle{apalike}
+	\bibliographystyle{plain}
+	\bibliography{Mendeley_bib/TM}
+		
+	\listoffigures	
+	
+	\listoftables	
+			
+	\newcommand{\chapterwithoutnumber}[2]{
+		\setcounter{chapter}{#1}
+		\setcounter{section}{0}
+		\chapter*{#2}
+		\addcontentsline{toc}{chapter}{#2}
+	}
+	
+	\newcommand{\hiddensection}[1]{
+		\stepcounter{section}
+		\section*{\Alph{section}.\hspace{1em}{#1}}
+	}
+	
+	\newcommand{\hiddensubsection}[1]{
+		\stepcounter{section}
+		\subsection*{\Alph{section}.\hspace{1em}{#1}}
+	}
+	
+	\chapterwithoutnumber{10}{Annexes}
+		\hiddensection{Nomenclature}
+		\hiddensection{Diagrammes UML}
+		\hiddensection{Crédits}
+		\hiddensection{Script de génération d'un terrain}
+		
+	\vspace{8cm}
+	
+	\begin{tabular}{l l}
+		Lieu, date: & St-Imier, le 05 février 2016 \\ 
+		Prénom, nom: & Nicolas Wenk \\
+		 & \\
+		 & \\
+		Signature: & 
+	\end{tabular}
+	\newpage
+	
+	\pagenumbering{gobble}
+	
+	\chapterwithoutnumber{10}{Annexe A - Nomenclature}
+	\input{tex/Lexicon}
+	\newpage
+	
+	\begin{landscape}
+		\chapterwithoutnumber{5}{Annexe B - Diagrammes UML}
+		\input{tex/Diagrams}
+		\newpage
+	\end{landscape}
+	
+	\chapterwithoutnumber{10}{Annexe C - Crédits}
+	\input{tex/Credits}
+	\newpage
+	
+	\chapterwithoutnumber{10}{Annexe D - Script de génération d'un terrain}
+					
+\end{document}

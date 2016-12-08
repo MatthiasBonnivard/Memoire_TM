@@ -1,0 +1,180 @@
+---Lvl: 1, geom: FULL_GEOMETRY---1/29/2016 5:28:53 PM
+Select lvl scene:
+-74.50961 fps;
+-0% frames > 50ms (0/399);
+-0.7518797% frames < 60fps (3/399);
+-0.2506266% frames < 30fps (1/399);
+- max deltaTime: 41.73227ms.
+---
+Scene transition:
+-68.75098 fps;
+-0.8264463% frames > 50ms (4/484);
+-4.132231% frames < 60fps (20/484);
+-1.239669% frames < 30fps (6/484);
+- max deltaTime: 226.6755ms.
+---
+Before GateAirlock2Outside opening:
+-53.76524 fps;
+-0.120048% frames > 50ms (1/833);
+-39.13565% frames < 60fps (326/833);
+-0.9603841% frames < 30fps (8/833);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-68.32185 fps;
+-0.007613247% frames > 50ms (2/26270);
+-10.9745% frames < 60fps (2883/26270);
+-0.04567948% frames < 30fps (12/26270);
+- max deltaTime: 93.37328ms.
+---
+Terrain:
+-74.81203 fps;
+-0.06313131% frames > 50ms (1/1584);
+-182.1338% frames < 60fps (2885/1584);
+-0.8207071% frames < 30fps (13/1584);
+- max deltaTime: 53.32605ms.
+---
+---Lvl: 2, geom: FULL_GEOMETRY---1/29/2016 5:36:38 PM
+Select lvl scene:
+-74.30107 fps;
+-0% frames > 50ms (0/171);
+-1.754386% frames < 60fps (3/171);
+-0% frames < 30fps (0/171);
+- max deltaTime: 28.14067ms.
+---
+Scene transition:
+-65.62565 fps;
+-1.298701% frames > 50ms (6/462);
+-3.246753% frames < 60fps (15/462);
+-1.515152% frames < 30fps (7/462);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-44.00291 fps;
+-0.07961784% frames > 50ms (1/1256);
+-69.90446% frames < 60fps (878/1256);
+-0.6369427% frames < 30fps (8/1256);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-63.62726 fps;
+-0% frames > 50ms (0/29555);
+-20.84588% frames < 60fps (6161/29555);
+-0.02706818% frames < 30fps (8/29555);
+- max deltaTime: 26.82725ms.
+---
+Terrain:
+-74.9144 fps;
+-0% frames > 50ms (0/1732);
+-355.8314% frames < 60fps (6163/1732);
+-0.4618938% frames < 30fps (8/1732);
+- max deltaTime: 26.75593ms.
+---
+---Lvl: 3, geom: FULL_GEOMETRY---1/29/2016 5:45:47 PM
+Select lvl scene:
+-74.6346 fps;
+-0% frames > 50ms (0/333);
+-0.9009009% frames < 60fps (3/333);
+-0% frames < 30fps (0/333);
+- max deltaTime: 28.44576ms.
+---
+Scene transition:
+-65.20074 fps;
+-1.30719% frames > 50ms (6/459);
+-4.139433% frames < 60fps (19/459);
+-1.742919% frames < 30fps (8/459);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-45.89588 fps;
+-0.1626016% frames > 50ms (1/615);
+-62.76423% frames < 60fps (386/615);
+-1.626016% frames < 30fps (10/615);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-37.49292 fps;
+-0.01130199% frames > 50ms (2/17696);
+-102.1813% frames < 60fps (18082/17696);
+-0.06781194% frames < 30fps (12/17696);
+- max deltaTime: 79.97997ms.
+---
+Terrain:
+-37.50018 fps;
+-0% frames > 50ms (0/723);
+-2600.968% frames < 60fps (18805/723);
+-1.659751% frames < 30fps (12/723);
+- max deltaTime: 26.8362ms.
+---
+---Lvl: 4, geom: FULL_GEOMETRY---1/29/2016 5:54:42 PM
+Select lvl scene:
+-74.77327 fps;
+-0% frames > 50ms (0/534);
+-0.5617977% frames < 60fps (3/534);
+-0% frames < 30fps (0/534);
+- max deltaTime: 28.35846ms.
+---
+Scene transition:
+-61.93193 fps;
+-1.376147% frames > 50ms (6/436);
+-4.816514% frames < 60fps (21/436);
+-2.293578% frames < 30fps (10/436);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-73.17664 fps;
+-0.0997009% frames > 50ms (1/1003);
+-2.492522% frames < 60fps (25/1003);
+-1.09671% frames < 30fps (11/1003);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-74.98985 fps;
+-0.002902084% frames > 50ms (1/34458);
+-0.08125834% frames < 60fps (28/34458);
+-0.034825% frames < 30fps (12/34458);
+- max deltaTime: 53.39993ms.
+---
+Terrain:
+-75.00095 fps;
+-0% frames > 50ms (0/1466);
+-1.909959% frames < 60fps (28/1466);
+-0.8185539% frames < 30fps (12/1466);
+- max deltaTime: 13.41794ms.
+---
+---Lvl: 5, geom: FULL_GEOMETRY---1/29/2016 6:03:20 PM
+Select lvl scene:
+-74.54781 fps;
+-0% frames > 50ms (0/432);
+-0.9259259% frames < 60fps (4/432);
+-0% frames < 30fps (0/432);
+- max deltaTime: 28.41442ms.
+---
+Scene transition:
+-64.06216 fps;
+-1.108647% frames > 50ms (5/451);
+-4.878049% frames < 60fps (22/451);
+-1.330377% frames < 30fps (6/451);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-73.36346 fps;
+-0.09699321% frames > 50ms (1/1031);
+-2.230844% frames < 60fps (23/1031);
+-0.6789525% frames < 30fps (7/1031);
+- max deltaTime: 333.3333ms.
+---
+Before GateAirlock2Outside opening:
+-74.99399 fps;
+-0.002983116% frames > 50ms (1/33522);
+-0.07159477% frames < 60fps (24/33522);
+-0.02386492% frames < 30fps (8/33522);
+- max deltaTime: 53.36795ms.
+---
+Terrain:
+-74.94218 fps;
+-0% frames > 50ms (0/1276);
+-1.959248% frames < 60fps (25/1276);
+-0.6269593% frames < 30fps (8/1276);
+- max deltaTime: 26.73866ms.
+---

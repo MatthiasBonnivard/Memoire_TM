@@ -1,0 +1,93 @@
+%TODO: Faire une intro ?
+
+\section{Conclusion}
+Ce projet abouti à la réalisation d'un \textit{serious game} (SG) de réhabilitation basé sur un mouvement de marche. Il est destiné à fonctionner avec le LHS. À cause de tests officiels réalisés durant ce travail au Centre Hospitalier Universitaire Vaudois (CHUV), l'intégration avec le LHS n'a pas pu être testée. La possibilité de jouer au clavier est toutefois présente et a été validé par une personne du domaine médical. Les principales caractéristiques du SG sont un aspect immersif, l'appauvrissement de l'environnement et la représentation du mouvement de marche. 
+Ce SG est une première étape d'un projet de recherche et développement (projet R\&D). Le programme développé ne correspond qu'à une sélection d'objectifs parmi la totalité des objectifs de ce projet R\&D. Les étapes précédant son implémentation ont été réalisées pour l'intégralité des objectifs. Ainsi, un état de l'art a été réalisé, axé sur les SGs et la réalité virtuelle (VR) dans le domaine de la neuropsychologie et neuroréhabilitation. Ce a permis d'identifier, dans l'analyse, les aspects à considérer pour la réalisation d'un SG dans ces domaines. Le concept du SG a ensuite été réalisé durant la phase de conception, avant d'en sélectionner la sous-partie devant être implémentée. 
+\\
+
+Ce qui motive avant tout l'utilisateur durant le SG est la recherche des traces d'une civilisation disparue (objectifs) en explorant différentes planètes. Dans l'environnement, l'utilisateur a une trajectoire imposée, ce qui est concrétisé par la présence d'un personnage, nommé "guide", devant être suivit. Il se trouve être en permanence devant le joueur et possède une animation de marche servant à l'activation des neurones miroirs. Le joueur possède également une représentation de son corps dans son environnement. Pour amplifier l'effet immersif tout en permettant d'activer les neurones miroirs, les mouvements des jambes de cet avatar correspondent aux angles des différents segments calculés par le LHS. Il peut voir ses jambes en baissant son regard. Le haut du corps de cet avatar s'oriente d'après la direction du regard en divisant la rotation de la caméra sur les différentes articulations du dos et de la nuque.
+\\
+
+Au début ainsi qu'à la fin de chaque partie, le joueur se trouve à l'intérieur du vaisseau dans une pièce meublée avec des objets familiers (tels qu'une chaise, un cadre, un bureau, etc.) avant d'en sortir pour découvrir l'environnement de la planète. Cette zone fait office de passerelle entre l'hôpital et l'environnement étranger d'une planète inconnue.
+\\
+
+Une autre interaction est présente pour récupérer les objectifs: un \textit{scan} automatique au centre de notre champ de vision. Le but étant de proposer une interaction la plus naturelle possible, ce champ varie grâce à l'utilisation de l'\textit{Oculus Rift}. Ce dernier n'est pas utilisé uniquement pour l'immersion. Aucun autre périphérique n'est nécessaire pour cette interaction. Le SG développé avec \textit{Unity} contient cinq niveaux comprenant des environnements variés. Ces niveaux respectent le même exercice thérapeutique et sont de difficulté égale. Les objectifs sont placés à gauche et à droite du chemin d'après une distribution réglable par le thérapeute, afin de s'adapter à l'héminégligence du patient.
+\\
+
+Concernant l'appauvrissement de l'environnement, neuf facteurs indépendants sont implémentés: (1) géométrie des éléments; (2) densité des éléments; (3) géométrie du terrain; (4) présence d'herbes; (5) audio; (6) effets de lumières; (7) nombres de couleurs du rendu; (8) présence d'animations; (9) présence d'effets de particules. Chacun de ces facteurs contient plusieurs valeurs. Pour éviter toute explosion combinatoire qui risquerait d'amener une complexité non désirée par le thérapeute, une dixième facteur est règle les valeurs des neufs autres. C'est ce facteur principal qui sera accessible directement par le thérapeute. Les "\textit{landscape elements}" sont des éléments placés par script et servant à enrichir le terrain. Leur quantité et leur géométrie peuvent être appauvries. Chaque élément possède six géométries différentes utilisant des primitives 3D ou des \textit{billboards}. Des utilitaires ont été réalisés pour générer ces dernières à partir du modèle 3D original. La géométrie du terrain peut être appauvrie en trois valeurs. Les effets audio sont classés en quatre familles, une sélection d'une ou plusieurs défini le niveau de cet appauvrissement. Les effets de lumières peuvent être appauvris en trois niveaux différents. Le premier étant les effets de base, le deuxième (effet lumière diffus) désactive les reflets et le troisième (effet lumière unie) désactive tout calcul d'ombre portée ou projetée. Un appauvrissement du nombre de couleurs au rendu a également été réalisé mais son utilité est jugée peu pertinente. Finalement, les trois derniers facteurs sont des booléens pouvant être activés ou désactivés: animation; particules; herbe.
+\\
+
+Des tests de performances ont été effectués et montrent des métriques relativement bonnes en moyenne, mais peu constantes. Le monde 3 ainsi que la pièce intérieure ont cependant des métriques inférieures au reste. Un travail d'optimisation reste donc à être effectué.
+\newpage
+
+\section{Perspectives}
+	Le SG actuel est fonctionnel. Cependant, de nombreux points peuvent être poursuivis afin qu'il soit complet ou qu'il puisse être utilisé avec certains patients.
+	
+	\subsection*{Intégration LHS}
+		Premièrement, l'intégration du SG au LHS doit être réalisée. Celle-ci comprend les interfaces de création et de paramétrage d'un exercice correspondant un SG, la création de variables dans l'application temps réel ainsi que l'implémentation d'un mouvement de marche. Une fois cela effectué, la validation de l'articulation pourra être faite, nécessitant quelques changements éventuels de l'application des angles du LHS.
+		\\
+		
+		L'intégration au LHS concerne également la stratégie de persistance de la progression du SG. Actuellement aucun utilisateur n'est définit et la persistance se fait par le SG dans un fichier sur l'ordinateur l'exécutant. Il serait souhaitable de pouvoir mémoriser la progression de chaque patient et éventuellement dans la même base de donnée que l'IHM.
+		
+	\subsection*{Tests cliniques}
+		Pour vérifier la valeur du SG dans le domaine de la réhabilitation, des tests cliniques doivent être réalisés. Ceux-ci sont à effectuer par des thérapeutes sur une population de patients. Une certification logicielle démontrant qu'aucune partie du SG ne peut provoquer des blessures aux patients doit être réalisée en amont.
+	
+	\subsection*{Sensations haptiques} 
+		Le LHS permet l'implémentation de différents retours haptiques. Une fois le mouvement correctement implémenté, il est alors possible de s'intéresser à différentes sensations haptiques, telles que: différents types de sols (mous, dur, granuleux, etc.); présence de pentes; présence d'obstacles; présence de marches; présence d'escaliers; immersion dans un liquide; flaque d'eau. Ce point est compris dans les objectifs du projet R\&D. Il permettrait d'augmenter le sentiment de présence en travaillant plus le sens du toucher. Il pourrait également correspondre à un besoin du domaine médical, pour réapprendre une marche sur différents sols et à être plus conscient de l'emplacement du pied dans l'espace.
+		
+	\subsection*{Générations de terrains} 
+		Les mondes actuels ne correspondent pas à des critères thérapeutiques, qui pourrait être une durée, une rotation maximale ou encore des informations sur la pente si celle-ci est implémentée. La première étape est alors de connaître les facteurs importants d'après les thérapeutes. La deuxième étape est l'implémentation de la génération du terrain. Des tests ont été faits à ce sujet (décrit dans le chapitre "Développement", section \ref{sDevAppauvrissement}) à l'aide d'un script Python \cite{python_website} en annexe. Les fonctionnalités du projet ont été pensées de façon à être compatibles avec des terrains générés, tel que le placement des \textit{landscape elements} d'après une texture ou encore le chemin décrit à l'aide de courbes de Bézier.
+	
+	\subsection*{Développement du scénario et dialogues sonores}
+		D'après la conception (section \ref{sConGameConcept}), le scénario doit être transmit au joueur à l'aide de dialogues sonores. Une progression dans la recherche de la civilisation disparue doit être perceptible tout au long des parties. Un scénario travaillé permettrait même de retourner sur des planètes déjà explorée pour y trouver d'autres éléments qui étaient cachés ou ne pouvant pas être l'objet de \textit{scans} à ce moment.
+		Ces dialogues sonores peuvent également guider le joueur durant une partie (l'avertir lorsqu'un objectif est proche). Ils peuvent également l'aider à s'impliquer dans le SG, à l'aide d'une narration de chaque objectif récupéré.
+		\\
+		
+		Un aspect intéressant lié à cette création de scénario est d'étudier la faisabilité de création de différents profils types de patient. Chaque profil aurait alors une progression et un scénario différent. Ceci permettrait de faire une corrélation entre la progression de la thérapie et celle du SG (\textit{e.g.}, faire évoluer l'appauvrissement tout au long du scénario). Il n'est pas garanti qu'une telle corrélation soit possible, c'est pourquoi cette perspective est à étudier.
+		
+	\subsection*{Valoriser le mouvement du joueur}
+		Des pistes sont ressorties, lors des démonstrations aux mandants, ainsi qu'une entrevue avec un médecin (section \ref{sResRetourDomaineMedical}), afin de valoriser le mouvement du joueur. Le but de cette valorisation étant l'optimisation de l'activation des neurones miroirs. Pour se faire, il est suggéré de synchroniser les mouvements du guide avec ceux du joueur. Si ces derniers sont corrigés ou guidés par le LHS, il peut même les utiliser directement. Si ce n'est pas le cas, il faut en extraire un rythme à appliquer sur l'animation de marche du modèle. Ces modifications impliquent une nouvelle stratégie de déplacement du guide, avec une distance entre ce guide et le joueur variant moins qu'actuellement.
+		
+		On peut également imaginer donner au thérapeute la possibilité d'afficher constamment dans le HUD un aperçu des jambes du patient.
+		
+	\subsection*{Métriques}
+		Comme expliqué dans l'analyse et aperçu dans certains projets de l'état de l'art, le SG peut générer de nouvelles métriques. Celles-ci peuvent concerner l'héminégligence ou encore la capacité à effectuer plusieurs actions en même temps. Elles peuvent consister en un score propre au côté gauche au côté droit ou être liées aux mouvements effectués avec le HMD. L'utilité de ces métriques a été confirmée durant une rencontre avec un médecin (section \ref{sResRetourDomaineMedical}). Le développement de telles métriques est à envisager pour la suite, ainsi qu'un moyen de remonter ces métriques pour qu'elles soient visibles par le thérapeute, par exemple, dans l'IHM. Pour certaines de ces métriques, des fonctionnalités supplémentaires seraient souhaitables (\textit{e.g.}, une évolution dans le temps de la visibilité d'un objectif ou encore un flux guidant le joueur du côté négligé).
+		
+		Une fois ces fonctionnalités et métriques implémentées, l'utilisation du SG hors d'une réhabilitation de marche, pour des patients souffrant d'héminégligence ou autre troubles cognitif, peut être envisagée.
+		
+	\subsection*{Tests cognitifs}
+		Des tests évaluant l'activité cérébrale sur les différents niveaux possédant différents facteurs d'appauvrissement permettraient de valider leur utilité. Ils permettraient aussi de décrire la charge cognitive des différentes combinaisons de facteurs afin de savoir quel facteur mérite de prendre plus de valeurs ou celles pouvant être ignorées. Cela permettrait également de proposer une sélection pertinente de valeurs via le facteur d'appauvrissement général.
+		
+	\subsection*{Améliorations}
+		Concernant le SG plus directement, de nombreuses améliorations sont encore possibles.
+		
+		Pour les appauvrissements actuels, les améliorations suivantes sont envisageables:
+		\begin{itemize}
+			\item \textbf{Géométrie --} Pour les \textit{landscape elements}, de nouvelles géométries sont envisageables. Par exemple, en diminuant le nombre de sommets du modèle 3D pour avoir une forme simplifiée (piste envisagée mais nécessitant l'utilisation de logiciels tiers, souvent payant, et les compétences d'un designer). 
+			\item \textbf{Effets de lumière --} Pour la valeur "uni", le dessin de contours aux objets de la scène permettrait de mieux discerner leur forme s'ils se superposent. Pour les valeurs "uni" et "diffus", le \textit{shader} du terrain n'est actuellement pas modifié. Il pourrait donc l'être.
+			\item \textbf{Nombre de couleur --} Améliorer l'appauvrissement des couleurs. Peut être fait en proposant une technique de choix de couleurs plus appropriée. Le développement d'une autre technique d'application de ces couleurs (actuellement appliquée sur le rendu directement) serait également souhaitable.
+		\end{itemize}
+		
+		D'autres aspects du SG peuvent être améliorés:
+		\begin{itemize}
+			\item \textbf{Choix des niveaux --} Il pourrait, par exemple être un peu plus intuitif (\textit{e.g.}, visualisation du temps de validation directement dans le curseur, aperçu du monde sélectionné, etc.). La transition entre les scènes peut également être améliorée sous différents aspects (ajout de vibrations, d'effets sonores, effectuer un fondu entre l'animation et la caméra de l'avant du vaisseau);
+			
+			\item \textbf{Optimisations --} Les tests de performances ont montré que le SG peut être optimisé, en commençant par réduire le nombre de polygones des objets familiers placés à l'intérieur du vaisseau. Plus de pistes concernant les optimisations sont disponibles dans la section \ref{sResTests} dédiée aux tests;
+				
+			\item \textbf{Progression --} Les niveaux actuels ne contiennent pas de variations dans l'exercice thérapeutique. Ils n'ont cependant pas tous la même durée et, pour certains, les objectifs sont plus difficiles à trouver. Or, aucun classement par difficulté n'est effectué. Celui-ci pourrait alors être réalisé en modifiant le placement des objectifs si besoin. Pour guider la progression du joueur, certains niveaux peuvent être verrouillés tant qu'un certain nombre d'objectifs n'a pas été obtenu ou de niveaux complétés;
+			
+			\item \textbf{Évolution de l'aide --} Actuellement, l'aide en jeu est toujours la même. Elle consiste en l'affichage de zone de taille variable sur la carte, ainsi que d'un scintillement sonore et visuel des objectifs. Pour suivre certains conseils trouvés lors de l'analyse, il serait souhaitable que cette aide évolue sur la durée. Premièrement, le premier niveau pourrait avoir le plus d'aide possible, en guise de tutoriel. Puis cette aide diminuerait afin de laisser de l'indépendance au joueur. Deuxièmement, en sauvegardant le nombre d'essais par terrain ainsi que les objectifs obtenus à chaque fois, on pourrait détecter si le joueur peine à progresser (trouver les objectifs manquants). On peut alors imaginer rajouter progressivement l'aide pour qu'il finisse par le trouver et ainsi conserver sa motivation;
+			
+			\item \textbf{Sens du chemin --} Actuellement, chaque niveau a un sens de parcours défini. Or, ces parcours sont des boucles décrites par une suite de courbes de Bézier, il est envisageable de pouvoir choisir ce sens. Le choix du sens pourrait être dû à l'héminégligence du patient ou alors simplement pour obtenir les objectifs se situant à la fin si on peine à effectuer tout le parcours en une session;
+			
+			\item \textbf{Prolongation du terrain --} Actuellement, le terrain visible correspond à une zone carré. Durant l'atterrissage, en début de niveau, on voit facilement que ce terrain n'est contenu que dans cette petite zone et que l'on n'atterrit pas sur une planète complète. Cette limitation est également visible durant le parcours sur les mondes plats (comme le cinq). Un moyen de le prolonger ou d'en donner l'impression serait donc souhaitable;
+			
+			\item \textbf{Animation de marche --} Les animations du guide comme celles de l'avatar du patient pourraient être améliorées. L'animation de marche tord les doigts du guide de façon peu naturelle. De plus, l'ajout d'autres animations, comme un retournement en fin de partie ou lorsque l'on s'arrête, pourrait être fait. Concernant l'avatar, seules les jambes et le dos sont animés. Les bras restent toujours figés et cela est notamment perceptible sur son ombre. Un balancement de ces derniers d'après le rythme de marche peut être souhaitable. Il faut cependant vérifier qu'il n'apporte pas une incohérence désagréable du fait que le patient, sur le LHS, gardera probablement les bras immobiles;
+			
+			\item \textbf{Utilitaire --} Les utilitaires ont souvent été implémentés pour rapidement produire un résultat. La conséquence est qu'ils peuvent largement être améliorés pour une utilisation plus agréable. Par exemple, les scripts principaux des scènes génératrices de \textit{billboards} et des aperçus des objectifs pourraient utiliser une action d'interface plutôt que d'être exécutés en lançant la scène (ce qui permettrait de les stocker constamment dans le répertoire "Editor").
+		\end{itemize}	
+		
+	%TODO: Amélioration possible: Mettre ce temps en paramètre du script de scan.
+	
+	%\subsection*{Zone familière}
+	%TODO: Réfléchir à un moyen de ne pas mettre juste des objets courant, mais carrément des objets privés du joueur dans la scène.

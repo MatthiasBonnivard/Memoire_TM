@@ -1,0 +1,37 @@
+\select@language {french}
+\select@language {english}
+\select@language {english}
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}\IeC {\'E}tat de l'art}{3}
+\contentsline {section}{\numberline {2.1}VR en neuropsychologie}{3}
+\contentsline {section}{\numberline {2.2}Simulation 3D en neuropsychologie et neuror\IeC {\'e}habilitation suite \IeC {\`a} un AVC}{5}
+\contentsline {section}{\numberline {2.3}SGs pour la r\IeC {\'e}habilitation d'un membre suite \IeC {\`a} un AVC}{8}
+\contentsline {chapter}{\numberline {3}Analyse}{16}
+\contentsline {section}{\numberline {3.1}Contexte initial}{16}
+\contentsline {section}{\numberline {3.2}Identification des objectifs}{19}
+\contentsline {section}{\numberline {3.3}Contraintes et choix technologiques}{20}
+\contentsline {section}{\numberline {3.4}\IeC {\'E}l\IeC {\'e}ments pour la conception d'un SG de neuror\IeC {\'e}habilitation}{23}
+\contentsline {chapter}{\numberline {4}Conception}{27}
+\contentsline {section}{\numberline {4.1}Concept du jeu}{27}
+\contentsline {section}{\numberline {4.2}S\IeC {\'e}lection des objectifs}{30}
+\contentsline {section}{\numberline {4.3}Identification des risques}{33}
+\contentsline {section}{\numberline {4.4}Communication avec le LHS}{35}
+\contentsline {chapter}{\numberline {5}D\IeC {\'e}veloppement logiciel}{38}
+\contentsline {section}{\numberline {5.1}Structure du projet}{38}
+\contentsline {section}{\numberline {5.2}Appauvrissement de la sc\IeC {\`e}ne}{48}
+\contentsline {section}{\numberline {5.3}\IeC {\'E}l\IeC {\'e}ments du SG}{65}
+\contentsline {section}{\numberline {5.4}Articulation de l'avatar et animation de marche}{76}
+\contentsline {chapter}{\numberline {6}R\IeC {\'e}sultats}{80}
+\contentsline {section}{\numberline {6.1}SG d\IeC {\'e}velopp\IeC {\'e}}{80}
+\contentsline {section}{\numberline {6.2}Utilitaires d\IeC {\'e}velopp\IeC {\'e}s}{87}
+\contentsline {section}{\numberline {6.3}Tests de performances}{88}
+\contentsline {section}{\numberline {6.4}Retour du domaine m\IeC {\'e}dical}{90}
+\contentsline {chapter}{\numberline {7}Discussion}{93}
+\contentsline {section}{\numberline {7.1}Conclusion}{93}
+\contentsline {section}{\numberline {7.2}Perspectives}{95}
+\contentsline {chapter}{Annexes}{108}
+\contentsline {chapter}{Annexe A - Nomenclature}{}
+\contentsline {chapter}{Annexe B - Diagrammes UML}{}
+\contentsline {chapter}{Annexe C - Cr\IeC {\'e}dits}{}
+\contentsline {chapter}{Annexe D - Script de g\IeC {\'e}n\IeC {\'e}ration d'un terrain}{}
